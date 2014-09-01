@@ -26,7 +26,7 @@ def circle_area(radius):
     :return: the perimeter (units^2 from radius)
     '''
 
-print("The area of my circle is ", circle_area(10))
+print("The area of my circle is ", circle_area(20))
 
 #PARALLELOGRAM
 #Perimeter of a parallelogram
